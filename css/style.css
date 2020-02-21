@@ -1142,6 +1142,10 @@ i.fas.fa-sort-up {
         top: 30px;
         left: 12px;
     }
+    i.fas.fa-arrow-right {
+    position: relative;
+    bottom: 12px;
+}
 }
 
 
